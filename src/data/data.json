@@ -1,0 +1,81 @@
+{
+  "articles": [
+    {
+      "id": "article-1",
+      "title": "[ebook] The Better Twilio Alternative",
+      "description": "Both Telnyx and Twilio offer voice and SMS APIs to enable business communications. So what’s the real difference between the two?",
+      "imageUrl": "//images.ctfassets.net/taysl255dolk/5un78kREFxgKXRCUjgxV1c/738c8e425cc15df0505d4d27f234ba4c/TwilioAttackebook_RCbanner_2x.png?w=300&h=300",
+      "topicId": "topic-2"
+    },
+    {
+      "id": "article-2",
+      "title": "Your Guide to Call to Tracking [Infographic]",
+      "description": "Did you know that calls are 10-15 times more likely to convert than digital leads? The popularity of click-to-call means Call Tracking is set to explode. Learn more in our infographic.",
+      "imageUrl": "//images.ctfassets.net/taysl255dolk/HVwAVHhRTlSFtCn21djl8/f5ce2302caf975e626d07187997825ca/CallTracking_infographic_v1.1_2x.png?w=300&h=300",
+      "topicId": "topic-2"
+    },
+    {
+      "id": "article-3",
+      "title": "New Product Release: High Volume, Short Duration",
+      "description": "We're excited to announce a new outbound voice product: high-volume, short-duration (HVSD) calls.",
+      "imageUrl": "//images.ctfassets.net/taysl255dolk/4Cwa6Eo47obvXF7q8nLoJ1/aa19823cb760e46cc65a523831c7d471/HVSD_RCthumb_2x.png?w=300&h=300",
+      "topicId": "topic-3"
+    },
+    {
+      "id": "article-4",
+      "title": "[Webinar] Solving Customer Problems With Conversational AI",
+      "description": "In this webinar, Telnyx and Replicant discuss how AI-powered conversation technology can proactively solve customer issues, with call flows that learn and improve with each interaction.",
+      "imageUrl": "//images.ctfassets.net/taysl255dolk/3mIAbQYHHKuR7SXuBSr9Gk/8ac0b3cc57606a40f5ab366bac5b4a64/convoAI_Resource_Center_Thumbnail_150x150_2x.png?w=300&h=300",
+      "topicId": "topic-1"
+    },
+    {
+      "id": "article-5",
+      "title": "Replicant Lowers Latency, Costs and Gains Real-Time Media Forking With Telnyx",
+      "description": "Using a combination of machine learning algorithms, Voice AI technology and a lightning-fast telephony stack built on Telnyx’s private, global communications network, Replicant has created a 'Thinking Machine' to solve problems in real time over the phone.",
+      "imageUrl": "//images.ctfassets.net/taysl255dolk/3a2fD9jPyurAEGWBtIwy7Q/fc4f8e2feffea05f8baff823b50c001d/replicant-casestudy_Thumbnail_2x.png?w=300&h=300",
+      "topicId": "topic-1"
+    },
+    {
+      "id": "article-6",
+      "title": "Telnyx Presents Intelligent Communications Platform at ITW 2019",
+      "description": "Telnyx showcases its global infrastructure and next-gen connectivity at International Telecoms Week (ITW) 2019 in Atlanta, June 24-26.",
+      "imageUrl": "//images.ctfassets.net/taysl255dolk/4CqqxkBIODElGOCG5oozpk/e17b36ac96cc8bbf98ee7c7837466cb0/ITW19_RCthumbnail_2x.png?w=300&h=300",
+      "topicId": "topic-1"
+    },
+    {
+      "id": "article-7",
+      "title": "Telnyx and Replicant Team Up to Build Future of Contact Center AI",
+      "description": "Telnyx has partnered with conversational AI technology company Replicant to offer a seamless phone support experience that’s transforming the way humans talk to machines.",
+      "imageUrl": "//images.ctfassets.net/taysl255dolk/2B7jgukh28BLrLjdQyGqsV/4dbe9fb1767bdb31765b599f3ee97ab4/ReplicantPressReleaseV1.2_EmailThumb_2x.png?w=300&h=300",
+      "topicId": "topic-1"
+    },
+    {
+      "id": "article-8",
+      "title": "3 SMS Trends to Watch",
+      "description": "Did you know that text messaging has been around for over 25 years? And yet it continues to evolve as technology advances, particularly when it comes to business applications. Here are three SMS trends to look out for this year and beyond. ",
+      "imageUrl": "//images.ctfassets.net/taysl255dolk/1UrM6fiHIAnF0UuVDnS2cY/b4bfb360a8621dafa811a72e9ad46efc/smsTrends2019_Resource_Center_Thumbnail_150x150_2x.png?w=300&h=300",
+      "topicId": "topic-1"
+    },
+    {
+      "id": "article-9",
+      "title": "Hassle-Free Porting With FastPort",
+      "description": "Telnyx FastPort® is a faster way to port your phone numbers. We’ve automated many of the internal and external porting processes to simplify and streamline the experience, providing headache-free porting from start to finish.",
+      "imageUrl": "//images.ctfassets.net/taysl255dolk/6tcGo5OWcLFp5feInSIvVS/fd5fa8ba7318cdf8acc20c435ef5ff66/FastPort_RCthumb_2x.png?w=300&h=300",
+      "topicId": "topic-1"
+    },
+    {
+      "id": "article-10",
+      "title": "Communication Trends [Infographic]",
+      "description": "See where the world of real-time communications is headed with a look into AI, Network, Cloud Services and other trends.",
+      "imageUrl": "//images.ctfassets.net/taysl255dolk/1smyaRC6mqcSjJhKwDdMJD/da1623235123dc974727930537b17825/comTrends-infographic_Resource_Center_Thumbnail_150x150_2x.png?w=300&h=300",
+      "topicId": "topic-2"
+    },
+    {
+      "id": "article-11",
+      "title": "The Future of Healthcare Communications ",
+      "description": "The healthcare system is still heavily reliant on outdated communication technology. However, there are signs the industry is edging toward a change.",
+      "imageUrl": "//images.ctfassets.net/taysl255dolk/25lZu52X0nePonlZWN8mIi/8cf6add21095c2674caf6b413f9a1fc6/Healthcare_RCthumbnail_2x.png?w=300&h=300",
+      "topicId": "topic-1"
+    }
+  ]
+}

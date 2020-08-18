@@ -1,0 +1,13 @@
+.Search-form {
+  .Search-input {
+    display: inline-block;
+    padding: 10px 15px;
+    border: 1px solid #eaeaea;
+    margin-bottom: 10px;
+
+    width: 100%;
+    @media screen and (min-width: 501px) {
+      width: 300px;
+    }
+  }
+}

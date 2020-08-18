@@ -1,0 +1,42 @@
+.Articles {
+  flex-wrap: wrap;
+
+  @media screen and (min-width: 501px) {
+    display: flex;
+  }
+
+  .Article-wrapper {
+    padding-bottom: 15px;
+
+    @media screen and (min-width: 501px) {
+      display: flex;
+      padding-right: 15px;
+      flex-basis: 50%;
+    }
+
+    @media screen and (min-width: 901px) {
+      flex-basis: 33.33%;
+    }
+
+    .Article {
+      border: 1px solid #eaeaea;
+      border-radius: 4px;
+      padding: 15px;
+
+      .Article-content {
+        .Article-title {
+          font-size: 1.25rem;
+          color: dodgerblue;
+          margin-bottom: 10px;
+          line-height: 1.5;
+        }
+
+        .Article-description {
+          line-height: 1.5;
+          font-size: 0.9rem;
+          color: #333333;
+        }
+      }
+    }
+  }
+}
