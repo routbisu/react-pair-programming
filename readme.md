@@ -1,6 +1,6 @@
-# Telnyx paired programming exercise
+# React paired programming exercise
 
-Welcome to the Telnyx paired programming exercise.
+Welcome to the React paired programming exercise.
 
 ## The exercise
 
@@ -39,7 +39,9 @@ yarn test:watch # runs jest tests in watch mode
 Please make sure they all work as expected prior to the interview. If they
 don't, contact us so that we can help you get setup.
 
-# Other features
+## Tasks
+
+Please completed any 3 of these tasks.
 
 - Improve search
 
